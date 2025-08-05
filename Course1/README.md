@@ -16,7 +16,7 @@ An NLP data loader in PyTorch that handles tokenization, numericalization, and p
 ## 🗂️ Contents by Module
 
 Each module folder includes:
-- `lab.md` – Lab exercises and walkthroughs
+- `lab.ipynb` – Lab exercises and walkthroughs
 - `cheatsheet.md` – Key formulas, commands, or concepts
-- `notes.md` – Personal learning notes
+- `notes.docs` – Personal learning notes
 
